@@ -2,7 +2,7 @@
 
 A vector database is a specialized type of database designed to store, index and search high dimensional vector representations of data known as embeddings. Unlike traditional databases that rely on exact matches vector databases use similarity search techniques such as cosine similarity or Euclidean distance to find items that are semantically or visually similar.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6e454371-2b2f-4fdd-856a-d4488ebf2870" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/480543a7-d9c9-4727-9626-49b69147b506" />
 
 # Embeddings
 
@@ -11,7 +11,7 @@ A vector database is a specialized type of database designed to store, index and
 * Instead of comparing raw text or media directly embeddings allow systems to measure similarity through mathematical distance metrics like cosine similarity or Euclidean distance for faster search and extraction.
 * This makes them important for tasks such as semantic search, recommendation systems, clustering, classification and cross lingual matching.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/76f70d94-522c-457c-8975-7bb08483ba6c" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/e1cd6727-eded-4115-99f7-c4d59558ac4a" />
 
 # How do they Work?
 
