@@ -3,10 +3,16 @@
 References:
 1. [https://www.youtube.com/embed/videoseries?si=B4GLBCoMLecxRdV1&amp;list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY](https://youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY&si=eQOS3pa0olS8sDAR)
 2. Vector Database: https://github.com/deepgoenka/RAG/blob/main/Vector_Database.md
-3. ChromaDB: https://docs.trychroma.com/docs/overview/introduction
-4. Pinecone: https://docs.pinecone.io/guides/get-started/overview
-5. FAISS: https://faiss.ai/index.html
-6. Cohere Reranker: https://cohere.com/rerank
+3. ChromaDB:
+     * Documentation: https://docs.trychroma.com/docs/overview/introduction
+     * YouTube Video: https://youtu.be/Qs_y0lTJAp0?si=QBG3890snbPioFAA
+5. Pinecone:
+     * Documentation: https://docs.pinecone.io/guides/get-started/overview
+     * YouTube Video: https://youtu.be/3OGWzDNMeaQ?si=hhG2E_11dXqerML5
+7. FAISS:
+     * Documentation: https://faiss.ai/index.html
+     * YouTube Video: https://youtu.be/sKyvsdEv6rk?si=1PHgJyj7eOag_pNt
+9. Cohere Reranker: https://cohere.com/rerank
 
 
 <img width="1586" height="1200" alt="RAG Pipeline" src="https://github.com/user-attachments/assets/c7e536a7-a536-4144-a67f-a838b80981ba" />
