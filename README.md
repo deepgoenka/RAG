@@ -1,6 +1,6 @@
 # Retrieval-Augmented Generation (RAG)
 
-References:
+## References
 1. [https://www.youtube.com/embed/videoseries?si=B4GLBCoMLecxRdV1&amp;list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY](https://youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY&si=eQOS3pa0olS8sDAR)
 2. Vector Database: https://github.com/deepgoenka/RAG/blob/main/Vector_Database.md
 3. ChromaDB:
